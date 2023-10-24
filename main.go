@@ -12,4 +12,5 @@ func main() {
 	rename := "1689007676028_text.txt"
 	txtFilename = &rename
 	textSearch(*txtFilename)
+
 }
